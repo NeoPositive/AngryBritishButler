@@ -1,0 +1,11 @@
+{
+    "name": "Angry_British_Butler",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Replaces some Butler audio (ButlerStep3 & UntuckKnife) with ItzMeFraz and Molegrip, absolute legends..",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Clementinise-CustomSounds-2.3.2",
+		"no00ob-LCSoundTool-1.5.1"
+    ]
+}

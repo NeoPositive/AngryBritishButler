@@ -1,27 +1,14 @@
-# Lethal Company: "Angry British" Hoarding Bug Audio Overhaul 🎮
+# Lethal Company: "Angry British" Butler Audio Overhaul.
 
-### THANKS FOR THE 100K+ DOWNLOADS!
+### NOTE: I HAVE NOT PLAYTESTED THIS MOD YET
 
 ## Introduction
 
-Welcome to the "Angry British" Hoarding Bug Audio Overhaul for Lethal Company! This mod injects a dose of humor and intensity into your gaming experience by replacing the standard hoarding bug audio with iconic quotes from the infamous angry British guy on Xbox Live. Get ready for a hilarious twist as you face the hoarding bug with a side of British rage!
+Welcome to the "Angry British" Butler Audio Overhaul for Lethal Company! This mod replaces some audio of the butler and replaces it with a much more funny and more british-er.
 
-## Features
+### **Audio Variety**:
 
-### 🗣️ **Angry British Voiceover**:
-
-- Say goodbye to generic bug noises and hello to the angry British guy's colorful commentary.
-- Enjoy a fresh and humorous take on the hoarding bug encounters.
-
-### 🎉 **Audio Variety**:
-
-- Experience a variety of rage-induced phrases, adding an element of surprise to each encounter.
-- No two hoarding bug experiences will sound the same!
-
-### 🤣 **Enhanced Entertainment**:
-
-- Bring a smile to your face as you navigate the challenges of dealing with hoarding bugs.
-- Share the laughter with fellow gamers and turn your encounters into memorable moments.
+- There is 26 different audio phrases, that the butler would randomly *say*.
 
 ## Installation
 
@@ -35,14 +22,15 @@ This mod is designed to work seamlessly with the latest version of Lethal Compan
 
 ## Support and Feedback
 
-If you encounter any issues, have suggestions, or just want to share your laughter-inducing experiences, feel free to reach out.
+Please send me any feedback regarding to this mod by either dm'ing me on discord but don't you dare spam me..
 
-- 🌐 **Discord**: [HoffmanTV](https://discord.gg/NfPVWaQFBu)
+- **Discord**: @neopositive
 
 ## Credits
 
-A massive shoutout to the angry British guy on Xbox Live for providing the inspiration for this mod. Special thanks to the Lethal Company community for their ongoing support.
+A massive shoutout to the BBCC (Clive, Molegrip and of course, Fraz) for the amazing audio that they've provided and have been used for this mod!
 
-Thank you for choosing the "Angry British" Hoarding Bug Audio Overhaul. May your gaming sessions be filled with laughter and epic bug encounters!
+Another shoutout to HoffmanTV for creating the angry british hoarding bug mod and providing the inspiration for this mod to be created.
 
-**Happy Bug-Hunting! 🐜
+(what do you mean i copied this from the angry british hoarding bug mod?)
+### And thanks to you for playing with this mod..

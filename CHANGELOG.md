@@ -2,6 +2,20 @@
 
 All notable changes to the "Angry British" Butler Audio Overhaul for Lethal Company will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.1.1]
+
+### Added
+
+- No features added.
+
+### Changed
+
+- Spread out the 13 audios across the 4 ButlerSweep to increase the chance of playing audio.
+
+### Removed
+
+- No features removed.
+
 ## [1.1.0]
 
 ### Added

@@ -2,6 +2,22 @@
 
 All notable changes to the "Angry British" Butler Audio Overhaul for Lethal Company will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.1.0]
+
+### Added
+
+- No features added.
+
+### Changed
+
+- Audio now replaces the BroomSweep3 sound instead of replacing ButlerStep sounds.
+- Fixed the README.md.
+- Fixed the description.
+- Fixed the manifest.json.
+
+### Removed
+
+- 1.0.1, as it didn't relate to this package.
 
 ## [1.0.0]
 

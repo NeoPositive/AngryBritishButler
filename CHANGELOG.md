@@ -2,6 +2,21 @@
 
 All notable changes to the "Angry British" Butler Audio Overhaul for Lethal Company will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.1.3]
+
+### Added
+
+- No features added.
+
+### Changed
+
+- Added override folders to actually fix the missing CustomSounds folder to load in the sounds.
+
+### Removed
+
+- No features removed.
+
+
 ## [1.1.2]
 
 ### Added

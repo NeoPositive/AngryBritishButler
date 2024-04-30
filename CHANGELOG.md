@@ -2,7 +2,7 @@
 
 All notable changes to the "Angry British" Butler Audio Overhaul for Lethal Company will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/).
 
-## [1.1.3]
+## [1.1.4]
 
 ### Added
 
@@ -10,7 +10,21 @@ All notable changes to the "Angry British" Butler Audio Overhaul for Lethal Comp
 
 ### Changed
 
+- Renamed the "ButlerSweep" audio files to "BroomSweep" to now replace the audio and be able to be played. :p
+
+### Removed
+
+- No features removed.
+
+## [1.1.3]
+
+### Added
+
 - Added override folders to actually fix the missing CustomSounds folder to load in the sounds.
+
+### Changed
+
+- No features changed.
 
 ### Removed
 

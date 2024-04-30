@@ -1,6 +1,6 @@
 # Lethal Company: "Angry British" Butler Audio Overhaul.
 
-### NOTE: I HAVE NOT PLAYTESTED THIS MOD YET
+### NOTE: I HAVE NOT EXTENSIVELY PLAYTESTED THIS MOD YET.
 
 ## Introduction
 
@@ -8,7 +8,9 @@ Welcome to the "Angry British" Butler Audio Overhaul for Lethal Company! This mo
 
 ### **Audio Variety**:
 
-- There is 26 different audio phrases, that the butler would randomly *say*.
+- There is a total of 26 different phrases that the butler can say in game with this mod!
+- There is 13 diffrent phrases that the butler can say when they brandishing their knife out!
+- There is another 13 different phrases that the butler can say while brushing the floor!
 
 ## Installation
 
@@ -22,7 +24,7 @@ This mod is designed to work seamlessly with the latest version of Lethal Compan
 
 ## Support and Feedback
 
-Please send me any feedback regarding to this mod by dm'ing me on discord but don't you dare spam me..
+I would prefer to be DM'd privately than rather checking the Lethal Company Modding server, which you can DM me from for any feedback, bugs or suggestions.
 
 - **Discord**: @neopositive
 
@@ -30,7 +32,7 @@ Please send me any feedback regarding to this mod by dm'ing me on discord but do
 
 A massive shoutout to the BBCC (Clive, Molegrip and of course, Fraz) for the amazing audio that they've provided and have been used for this mod!
 
-Another shoutout to HoffmanTV for creating the angry british hoarding bug mod and providing the inspiration for this mod to be created.
+Another shoutout to HoffmanTV for creating the angry british hoarding bug mod and providing the inspiration for this mod to be created - and also providing the backbone of this mod.
 
 (what do you mean i copied this from the angry british hoarding bug mod?)
 ### And thanks to you for playing with this mod..

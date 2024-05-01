@@ -1,6 +1,6 @@
 # Lethal Company: "Angry British" Butler Audio Overhaul.
 
-### NOTE: I HAVE NOT EXTENSIVELY PLAYTESTED THIS MOD YET.
+### NOTE: I HAVE NOT EXTENSIVELY PLAYTESTED THIS MOD YET AND STILL IS IN DEVELOPMENT.
 
 ## Introduction
 
@@ -20,13 +20,12 @@ Welcome to the "Angry British" Butler Audio Overhaul for Lethal Company! This mo
 
 ## Compatibility
 
-This mod is designed to work seamlessly with the latest version of Lethal Company. Ensure your game is up to date for optimal performance - or it may just suck.
+This mod is designed to work seamlessly with the latest version of Lethal Company. Ensure your game is up to date for optimal performance - or it may just suck due to my incompentence.
 
-## Support and Feedback
+## Roadmap
 
-I would prefer to be DM'd privately than rather checking the Lethal Company Modding server, which you can DM me from for any feedback, bugs or suggestions.
-
-- **Discord**: @neopositive
+- I will soon enough **try** to aim to having no overlap with any of the audio (as none seems impossible due to RNG..)
+- I will add *Minuet* to replace the ButlerMurderTheme eventually. 
 
 ## Credits
 

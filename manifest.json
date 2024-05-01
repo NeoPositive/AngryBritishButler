@@ -1,6 +1,6 @@
 {
     "name": "AngryBritishButler",
-    "version_number": "1.1.5",
+    "version_number": "1.1.6",
     "website_url": "https://github.com/NeoPositive/AngryBritishButler",
     "description": "Replaces some Butler audio (BroomSweep1 & UntuckKnifeSFX) with ItzMeFraz and Molegrip, absolute legends..",
     "dependencies": [

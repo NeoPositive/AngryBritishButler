@@ -2,6 +2,20 @@
 
 All notable changes to the "Angry British" Butler Audio Overhaul for Lethal Company will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.1.6]
+
+### Added
+
+- Added a 60% chance of the original BroomSweep1 sound to play to reduce audio overlap.
+
+### Changed
+
+- All BroomSweep1 audio files' percentages are changed to sum 40%.
+
+### Removed
+
+- No features removed.
+
 ## [1.1.5]
 
 ### Added

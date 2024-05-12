@@ -2,6 +2,21 @@
 
 All notable changes to the "Angry British" Butler Audio Overhaul for Lethal Company will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.2.6]
+
+### Added
+
+- Added two songs that play in replacement of ButlerMurderTheme (Minuet + British Grenadiers)
+
+### Changed
+
+- Increased the chances of the original BroomSweep 1 sound to 65% to reduce audio overlap.
+- Made all of the audio replacement of BroomSweep 1 sounds to sum up 35%.
+
+### Removed
+
+- No features removed.
+
 ## [1.1.6]
 
 ### Added
@@ -24,11 +39,11 @@ All notable changes to the "Angry British" Butler Audio Overhaul for Lethal Comp
 
 ### Changed
 
-- Reverted 1.1.1's changes with hopes of reducing of the audio overlapping with each other.
+- No features changed.
 
 ### Removed
 
-- No features removed.
+- Reverted 1.1.1's changes with hopes of reducing of the audio overlapping with each other.
 
 ## [1.1.4]
 
